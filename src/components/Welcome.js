@@ -10,4 +10,4 @@ export default function Welcome(props) {
     </React.Fragment>
   )
 }
-Footer
+
